@@ -20,6 +20,7 @@ Edição e Compilação do Vídeo: Após a geração do avatar e gravação do �
 
 ## 🚀 Resultados
 O vídeo resultante foi um material educativo bem estruturado e envolvente, destacando as contribuições de figuras como Alan Turing, John von Neumann, Claude Shannon, Grace Hopper e Tim Berners-Lee. O uso de um avatar virtual tornou a apresentação dinâmica e acessível, enquanto o script gerado pelo ChatGPT garantiu um conteúdo informativo e coeso.
+<a href="http://example.com/" target="_blank">LINK DO VIDEO AQUI</a>
 [LINK DO VIDEO AQUI](https://studio.d-id.com/share?id=52589d402c3083a60180043dff0ede69&utm_source=copy)
 
 ## 💭 Reflexão (Opcional)
