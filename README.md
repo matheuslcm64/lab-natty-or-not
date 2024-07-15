@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+#Vídeo por inteligência artificial
 
-## 🚀 Introdução
+##📒 Descrição
+Este projeto consistiu na criação de um vídeo sobre os cinco maiores contribuidores para a computação, utilizando o criador de avatar virtual da D-ID e um script gerado pelo ChatGPT. O objetivo foi criar um vídeo educativo e envolvente que destacasse as contribuições significativas de figuras históricas na área da computação.
 
-> Woooow! Look at this 👀
+##🤖 Tecnologias Utilizadas
+D-ID: Criador de avatar virtual utilizado para gerar a apresentação do vídeo.
+ChatGPT: Ferramenta de IA generativa utilizada para criar o script do vídeo.
+Role Prompting: Técnica utilizada para extrair informações específicas e detalhadas de forma eficiente.
+Ferramentas de Edição de Vídeo: Utilizadas para compilar e editar o vídeo final.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+##🧐 Processo de Criação
+Definição do Tema e Pesquisa: Primeiramente, foi definido o tema do vídeo e realizada uma pesquisa sobre os cinco maiores contribuidores para a computação.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Criação do Script com ChatGPT: Utilizando role prompting, o ChatGPT foi orientado a fornecer informações detalhadas sobre cada um dos contribuintes selecionados. Esse processo envolveu a criação de prompts específicos para obter um conteúdo abrangente e preciso.
 
-### Objetivos
+Desenvolvimento do Avatar Virtual: Com o script pronto, utilizamos o criador de avatar virtual da D-ID para gerar um apresentador que pudesse narrar o conteúdo do vídeo. A D-ID permitiu a personalização do avatar para torná-lo mais envolvente.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Edição e Compilação do Vídeo: Após a geração do avatar e gravação do áudio, o conteúdo foi editado utilizando ferramentas de edição de vídeo para compilar as imagens, gráficos e animações que complementassem a narração.
 
-### Template
+##🚀 Resultados
+O vídeo resultante foi um material educativo bem estruturado e envolvente, destacando as contribuições de figuras como Alan Turing, John von Neumann, Claude Shannon, Grace Hopper e Tim Berners-Lee. O uso de um avatar virtual tornou a apresentação dinâmica e acessível, enquanto o script gerado pelo ChatGPT garantiu um conteúdo informativo e coeso.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+##💭 Reflexão (Opcional)
+O principal desafio deste projeto foi criar algo que parecesse natural e envolvente utilizando apenas ferramentas de IA. A utilização do role prompting no ChatGPT foi essencial para obter um conteúdo detalhado e preciso, enquanto a D-ID ajudou a dar um toque humano à apresentação. Esse projeto demonstrou o potencial das tecnologias de IA em criar conteúdo educativo de alta qualidade, embora a curadoria humana ainda seja crucial para garantir a precisão e relevância do material.
